@@ -78,8 +78,8 @@ install_requires_core = [
     "tensorflow-addons>=0.15.0",
     "immutabledict>=2.2.1",
     "clu>=0.0.6",
-    "tfds-nightly>=4.5.2.dev,<5",
-    "tf-models-nightly>=2.7.0.dev,<3",
+#    "tfds-nightly>=4.5.2.dev,<5",
+#    "tf-models-nightly>=2.7.0.dev,<3",
 ]
 
 tests_require = [
